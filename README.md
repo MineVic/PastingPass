@@ -10,5 +10,6 @@ HOW TO USE:
   5. Inside of it, you should see the .exe for the app
   6. Once you open it, it will ask for a password (the one you put in the 2nd step)
   7. After that, the app will open, and you'll be able to place the passwords for some services and the username
+(NOTE: The folder that generates called build can be deleted, it is useless)
 
 I hope this app is useful for you all!
