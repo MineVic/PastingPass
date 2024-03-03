@@ -1,5 +1,8 @@
 Python app with GUI made to store passwords with their site and username
 
+<img width="360" alt="image" src="https://github.com/MineVic/PastingPass/assets/138819518/666bb37e-7265-4b8e-ab78-c59340bac308">
+
+
 HOW TO USE:
 (Before beggining, make sure you've got Python 3.11 installed (Others may work but I didn't try them))
   1. Clone the repository
