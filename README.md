@@ -15,4 +15,6 @@ HOW TO USE:
   7. After that, the app will open, and you'll be able to place the passwords for some services and the username
 (NOTE: The folder that generates called build can be deleted, it is useless)
 
+To obtain the stored passwords, you just need to click in the password and press the button "Get password"
+
 I hope this app is useful for you all!
