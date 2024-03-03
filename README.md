@@ -1,6 +1,7 @@
 Python app with GUI made to store passwords with their site and username
 
 HOW TO USE:
+(Before beggining, make sure you've got Python 3.11 installed (Others may work but I didn't try them))
   1. Clone the repository
   2. Edit the PastingPass.py file and add a master password where it says PasswordPlaceholder.
      (NOTE: The double quotation marks "" MUST be in the string: example: PasswordPlaceholder = "mypassword")
